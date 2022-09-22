@@ -8,8 +8,6 @@ Puedes usar cualquier herramienta que te guste para ayudarte a completar el desa
 
 En la carpeta "Diseños" tendras las vistas que debas replicar y en la carpeta "Imagenes" los recursos.
 
-En el archivo guia-estilos.md estan especificados los colores y las fuentes que necesitaran.
-
 Además de intentar replicar la vista del componente, es necesario cumplir con otros objetivos:
 
 - Descargar el repositorio con los archivos del proyecto en tu computadora.
