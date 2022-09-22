@@ -2,11 +2,13 @@
 
 # Componente de resumen de pedido
 
-El desafío es desarrollar un componente de tarjeta de resumen de pedido y lograr que se parezca lo más posible al diseño presentado.
+Su desafío es desarrollar este componente de tarjeta de vista previa del producto y lograr que se parezca lo más posible al diseño.
 
 Puedes usar cualquier herramienta que te guste para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
 
 En la carpeta "Diseños" tendras las vistas que debas replicar y en la carpeta "Imagenes" los recursos.
+
+En el archivo guia-estilos.md estan especificados los colores y las fuentes que necesitaran.
 
 Además de intentar replicar la vista del componente, es necesario cumplir con otros objetivos:
 
